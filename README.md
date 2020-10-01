@@ -1,4 +1,6 @@
-### Hello, My name is Eric and I'm a Web Developer 👋
+### Hi, I'm Eric. 👋
+
+## I'm a Web Developer!
 
 <!--
 **airrakedev/airrakedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
